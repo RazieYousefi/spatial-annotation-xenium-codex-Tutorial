@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+h5py
+openpyxl
+scikit-learn
+matplotlib
+scanpy
+squidpy
+igraph
+leidenalg

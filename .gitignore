@@ -1,0 +1,15 @@
+
+# Large input data
+data/codex_crc/CRC_clusters_neighborhoods_markers.csv
+data/xenium_breast/xe1_cell_feature_matrix.h5
+data/xenium_breast/Cell_Barcode_Type_Matrices.xlsx
+data/xenium_breast/xe1_cells.csv.gz
+
+# Generated analysis outputs
+results/*.h5ad
+results/*_kde.csv
+results/*_markers.csv
+results/figures/
+
+# macOS
+.DS_Store
